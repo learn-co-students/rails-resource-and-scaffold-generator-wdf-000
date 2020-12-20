@@ -107,7 +107,7 @@ class ArticlesController < ApplicationController
     @article = Article.new
   end
 
-  # GET /articles/1/edit
+  # GET  /articles/1/edit
   def edit
   end
 
